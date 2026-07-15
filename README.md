@@ -4,4 +4,4 @@
 (A collection of Claude Code skills that have been newly created or override existing ones.)
 
 ## 리스트
-- [웹사이트에서 긁어온 커리큘럼 문자열을 마크다운으로 파싱(parse-curriculum.md)](https://github.com/tokyun02/claude_skills/tree/main/list/parse-curriculum.md)
+- [웹사이트에서 긁어온 커리큘럼 문자열을 마크다운으로 파싱(parse-curriculum.md)](https://github.com/ToKyun02/claude_skills/blob/main/list/parse-curriculum-SKILL.md)
